@@ -1,3 +1,8 @@
+"""
+Author: Piotr Książak
+docScanner.py
+"""
+
 import numpy as np
 import cv2 as cv
 
